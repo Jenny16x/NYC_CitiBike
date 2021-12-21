@@ -10,13 +10,13 @@
 
 <p>The results shows that 
 <ol>
-	![alt text](https://github.com/Jenny16x/NYC_CitiBike/blob/main/AugAvg.png?raw=true)
+https://github.com/Jenny16x/NYC_CitiBike/blob/main/AugAvg.png
 <li>The most bike rental hour during August 2019 is at 5pm.  </li>
-	![alt text](https://github.com/Jenny16x/NYC_CitiBike/blob/main/TripHours.png?raw=true)
+https://github.com/Jenny16x/NYC_CitiBike/blob/main/TripHours.png
 <li>The charts shows what time during the weekdays when there is the most bike rentals.</li>
-	![alt text](https://github.com/Jenny16x/NYC_CitiBike/blob/main/GenderAnalysis.png?raw=true)
+https://github.com/Jenny16x/NYC_CitiBike/blob/main/GenderAnalysis.png
 <li>This section of the story shows the gender difference. Majority of the bike renters are male..</li>
-	![alt text](https://github.com/Jenny16x/NYC_CitiBike/blob/main/StartAndEnd.png?raw=true)
+https://github.com/Jenny16x/NYC_CitiBike/blob/main/StartAndEnd.png
 <li>The two maps shows the location of the bikes picked up at and dropped off. The tourist areas tends to show higher counts.</li>
 
 
